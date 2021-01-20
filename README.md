@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Vivian
+
+:tada: Woo! You made it to my Github :tada:
+
+I'm a Web / Mobile Developer based in Toronto, Canada. I predominantly use React and React Native as JavaScript is my workplace and playground. My passion is in designing and creating engaging and easy-to-use applications. I’m currently learning to create mock-ups and design my own assets using Adobe Xd and Illustrator. I am always looking to create something cool. When I'm not in front of the computer, I enjoy going hiking or, cooking a nice meal.
+
+You can find out more about me or see some of my work by visiting: [https://vivianchiu.dev](https://vivianchiu.dev)
+
+### Currently Working On
+I am currently working on my TourMe Mobile Application which is a self-guided tour app. It's designed to enrich your exploration in art, history and nature. 
 
 <!--
 **vchiuu/vchiuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
